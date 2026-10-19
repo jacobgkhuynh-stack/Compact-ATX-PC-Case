@@ -4,7 +4,6 @@ So this is a ATX PC case that focuses on gpu clearance and size mostly with the 
 It has one 120mm fan at the back and 2 140mm fans at the front and bottom.
 It also has around 160 CPU cooler height clearance and 460mm of GPU clearance.
 
-
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | --- | --- | --- | --- | --- | --- |
 | C13 to C14 Cable | 1 | ZERO Water Cooling | $23.44 | $23.44 | [AliExpress Link](https://www.google.com/search?q=https://www.aliexpress.us/item/3256807109263270.html) |
