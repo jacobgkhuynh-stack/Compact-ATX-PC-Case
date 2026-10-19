@@ -3,11 +3,13 @@
 So this is a ATX PC case that focuses on gpu clearance and size mostly with the PSU placed near the front. That's why a extension cable is needed for the power outlet to reach the back.
 It has one 120mm fan at the back and 2 140mm fans at the front and bottom.
 It also has around 160 CPU cooler height clearance and 460mm of GPU clearance.
+It also uses one keyboard with you have to solder yourself to a dupont connector
 
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | --- | --- | --- | --- | --- | --- |
 | C13 to C14 Cable | 1 | ZERO Water Cooling | $23.44 | $23.44 | [AliExpress Link](https://www.google.com/search?q=https://www.aliexpress.us/item/3256807109263270.html) |
 | 6-32×1/4×5.4 threaded inserts (20 pcs) | 1 | EDGAR GARY Store | $1.09 | $1.09 | [AliExpress Link](https://www.google.com/search?q=https://www.aliexpress.us/item/3256805884981465.html) |
 | 6-32 screws (100 pcs) | 1 | ChouJay118 Store | $1.09 | $1.09 | [AliExpress Link](https://www.google.com/search?q=https://www.aliexpress.us/item/3256806123021105.html) |
-| Estimated total shipping / tax | 1 | — | $3.07 | $3.07 | — |
-| **Total** |  |  |  | **$28.69** |  |
+| Keyboard switch (20 pcs) | 1 | Dropshipping Daily Life Pro Store | $1.09 | $1.09 | [AliExpress Link](https://www.google.com/search?q=https://www.aliexpress.us/item/3256812375048700.html) |
+| Estimated total shipping / tax | 1 | — | $3.21 | $3.21 | — |
+| **Total** |  |  |  | **$29.92** |  |
