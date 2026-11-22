@@ -3,7 +3,10 @@
 So this is a ATX PC case that focuses on gpu clearance and size mostly with the PSU placed near the front. That's why a extension cable is needed for the power outlet to reach the back.
 It has one 120mm fan at the back and 2 140mm fans at the front and bottom.
 It also has around 160 CPU cooler height clearance and 460mm of GPU clearance.
-It also uses one keyboard with you have to solder yourself to a dupont connector
+It also uses one keyboard switch for a power button you will have to solder yourself to a dupont connector
+
+<img width="1782" height="1143" alt="image" src="https://github.com/user-attachments/assets/5d20060d-0225-4230-9687-5160b34fcb66" />
+<img width="1519" height="970" alt="image" src="https://github.com/user-attachments/assets/79170cdf-a6e5-4841-a5e1-233ac6b4f530" />
 
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | --- | --- | --- | --- | --- | --- |
